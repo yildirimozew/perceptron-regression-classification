@@ -1,0 +1,36 @@
+Hidden Layer: 1 Neurons: 32 Learning Rate: 0.0100 Activation Function: tanh Train Loss: 0.3084 Validation Loss: 0.4963 Train Accuracy: 0.8937 Validation Accuracy: 0.8417
+Validation accuracy confidence interval is between 0.84550290687689 and 0.8378489674746115
+Hidden Layer: 1 Neurons: 32 Learning Rate: 0.0100 Activation Function: sigmoid Train Loss: 0.2755 Validation Loss: 0.4223 Train Accuracy: 0.9050 Validation Accuracy: 0.8570
+Validation accuracy confidence interval is between 0.8600879394776358 and 0.8539677179091439
+Hidden Layer: 1 Neurons: 32 Learning Rate: 0.0010 Activation Function: tanh Train Loss: 0.3818 Validation Loss: 0.4997 Train Accuracy: 0.8672 Validation Accuracy: 0.8324
+Validation accuracy confidence interval is between 0.8344232707717729 and 0.8304100364944624
+Hidden Layer: 1 Neurons: 32 Learning Rate: 0.0010 Activation Function: sigmoid Train Loss: 0.3428 Validation Loss: 0.4228 Train Accuracy: 0.8805 Validation Accuracy: 0.8515
+Validation accuracy confidence interval is between 0.8530298633037738 and 0.8499517279208966
+Hidden Layer: 1 Neurons: 64 Learning Rate: 0.0100 Activation Function: tanh Train Loss: 0.2580 Validation Loss: 0.5585 Train Accuracy: 0.9107 Validation Accuracy: 0.8450
+Validation accuracy confidence interval is between 0.8460012373241418 and 0.8440172973361976
+Hidden Layer: 1 Neurons: 64 Learning Rate: 0.0100 Activation Function: sigmoid Train Loss: 0.2292 Validation Loss: 0.4342 Train Accuracy: 0.9210 Validation Accuracy: 0.8637
+Validation accuracy confidence interval is between 0.8663383717099279 and 0.8611246352633387
+Hidden Layer: 1 Neurons: 64 Learning Rate: 0.0010 Activation Function: tanh Train Loss: 0.3232 Validation Loss: 0.4987 Train Accuracy: 0.8874 Validation Accuracy: 0.8403
+Validation accuracy confidence interval is between 0.84262598571593 and 0.83798502865022
+Hidden Layer: 1 Neurons: 64 Learning Rate: 0.0010 Activation Function: sigmoid Train Loss: 0.3060 Validation Loss: 0.4107 Train Accuracy: 0.8927 Validation Accuracy: 0.8571
+Validation accuracy confidence interval is between 0.8584564746109193 and 0.8556732117446715
+Hidden Layer: 2 Neurons: 32 Learning Rate: 0.0100 Activation Function: tanh Train Loss: 0.3556 Validation Loss: 0.5339 Train Accuracy: 0.8791 Validation Accuracy: 0.8298
+Validation accuracy confidence interval is between 0.8330038811925012 and 0.8265330765482825
+Hidden Layer: 2 Neurons: 32 Learning Rate: 0.0100 Activation Function: sigmoid Train Loss: 0.2439 Validation Loss: 0.4485 Train Accuracy: 0.9156 Validation Accuracy: 0.8570
+Validation accuracy confidence interval is between 0.8585313424529419 and 0.8555426731644287
+Hidden Layer: 2 Neurons: 32 Learning Rate: 0.0010 Activation Function: tanh Train Loss: 0.4235 Validation Loss: 0.5714 Train Accuracy: 0.8533 Validation Accuracy: 0.8116
+Validation accuracy confidence interval is between 0.8169829708898318 and 0.8062021868860471
+Hidden Layer: 2 Neurons: 32 Learning Rate: 0.0010 Activation Function: sigmoid Train Loss: 0.3286 Validation Loss: 0.4189 Train Accuracy: 0.8853 Validation Accuracy: 0.8541
+Validation accuracy confidence interval is between 0.856748106134584 and 0.8514370897882676
+Hidden Layer: 2 Neurons: 64 Learning Rate: 0.0100 Activation Function: tanh Train Loss: 0.2033 Validation Loss: 0.6958 Train Accuracy: 0.9312 Validation Accuracy: 0.8247
+Validation accuracy confidence interval is between 0.8279407525362514 and 0.8213926052747227
+Hidden Layer: 2 Neurons: 64 Learning Rate: 0.0100 Activation Function: sigmoid Train Loss: 0.2070 Validation Loss: 0.4396 Train Accuracy: 0.9291 Validation Accuracy: 0.8616
+Validation accuracy confidence interval is between 0.863274665888896 and 0.8598364867600298
+Hidden Layer: 2 Neurons: 64 Learning Rate: 0.0010 Activation Function: tanh Train Loss: 0.3060 Validation Loss: 0.7540 Train Accuracy: 0.8945 Validation Accuracy: 0.8049
+Validation accuracy confidence interval is between 0.8096149380663431 and 0.80023689909186
+Hidden Layer: 2 Neurons: 64 Learning Rate: 0.0010 Activation Function: sigmoid Train Loss: 0.2906 Validation Loss: 0.4056 Train Accuracy: 0.8975 Validation Accuracy: 0.8589
+Validation accuracy confidence interval is between 0.8607795598069599 and 0.8570724366148541
+Best Model: {'hidden_layer': 1, 'neurons': 64, 'learning_rate': 0.01, 'activation_function': 'sigmoid', 'train_loss': 0.22922639548778534, 'validation_loss': 0.4342469274997711, 'train_accuracy': 0.9210041165351868, 'validation_accuracy': 0.8637315034866333}
+Mean Test Loss: 0.6516 Mean Test Accuracy: 0.8555
+Test accuracy confidence interval is between 0.8577506631234906 and 0.8532491833349445
+------------------------------------------------------------
